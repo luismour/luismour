@@ -40,6 +40,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pedromansope/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luismour-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/luisantosm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luismour-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:luismsanto.contato@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pedrolucasmppe@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
