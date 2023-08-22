@@ -1,45 +1,38 @@
-<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219A01&height=120&section=header"/>
 
-<h2> Hey there! I'm Luís Miguel.</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=219A01&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Lu%C3%ADs;Welcome+to+my+Github+Profile!" alt="Typing SVG" /></a>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> Main Skills </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying System Analysis and Development on FICR, Recife.
-- 💼 &nbsp; looking for the first job
-- 🌱 &nbsp; Learning more about Backend tools
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=23F05033)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=0078d7)&nbsp;
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> Study </h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
 
-<br/>
+<h3> Tools </h3>
 
-<a href="https://github.com/luismour">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luismour&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromansope&theme=buefy&layout=compact&langs_count=7" />
-</a>
+![Git](https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git&logoColor=23F05033)&nbsp;
+![GitHub](https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-<br/>
+<h3> My Stats </h3>
+<div>  
+  <img width="49%" height="195px" margin-top='20px' src=https://github-readme-stats.vercel.app/api?username=LuisMour&theme=transparent&bg_color=000&border_color=adff2fa&show_icons=true&icon_color=00ffff&title_color=219A04&text_color=FFF alt="Luís Miguel github stats" /> 
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luismour&repo=dio-lab-open-source&bg_color=000&border_color=adff2fa&show_icons=true&icon_color=00ffff&title_color=219A04&text_color=FFF)](https://github.com/luismour/dio-lab-open-source)" />
+</div>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> Conect With Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/luisantosm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luismour-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:luismsantos.contato@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-luismsantos.contato@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/luisantosm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
+<a href="https://instagram.com/miiguelo._?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=23E4405F"></a>
+<a href="mailto:luismsantos.contato@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219A01&height=120&section=footer"/>
+
