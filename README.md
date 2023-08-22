@@ -29,9 +29,9 @@
 <h3> Conect With Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/luisantosm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
-<a href="https://instagram.com/miiguelo._?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=23E4405F"></a>
-<a href="mailto:luismsantos.contato@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
+<a href="https://www.linkedin.com/in/luisantosm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
+<a href="https://instagram.com/miiguelo._?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=23E4405F"></a>
+<a href="mailto:luismsantos.contato@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219A01&height=120&section=footer"/>
