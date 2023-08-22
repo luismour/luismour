@@ -2,6 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=219A01&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Lu%C3%ADs;Welcome+to+my+Github+Profile!" alt="Typing SVG" /></a>
 
+<h3>About me</h3>
+ I am passionate about exploring innovative technologies, developing software solutions, and creating quick hacks. Currently enrolled in System Analysis and Development at FICR, Recife, with an insatiable curiosity to learn. I am eagerly seeking my debut in the technology industry, while deepening my knowledge in Java and Backend Development. Excited to transform code into impactful experiences! 
+
 <h3> Main Skills </h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
@@ -26,7 +29,7 @@
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luismour&repo=dio-lab-open-source&bg_color=000&border_color=adff2fa&show_icons=true&icon_color=00ffff&title_color=219A04&text_color=FFF)](https://github.com/luismour/dio-lab-open-source)" />
 </div>
 
-<h3> Connect With Me </h3>
+<h3> Connect with me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/luisantosm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
