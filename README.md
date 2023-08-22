@@ -26,7 +26,7 @@
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Luismour&repo=dio-lab-open-source&bg_color=000&border_color=adff2fa&show_icons=true&icon_color=00ffff&title_color=219A04&text_color=FFF)](https://github.com/luismour/dio-lab-open-source)" />
 </div>
 
-<h3> Conect With Me </h3>
+<h3> Connect With Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/luisantosm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
